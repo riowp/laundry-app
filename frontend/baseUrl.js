@@ -1,3 +1,3 @@
-const baseUrl = "https://256d-2001-448a-10a8-1c6f-b0d7-d17c-2159-6ce4.ngrok.io"
+const baseUrl = "https://2425-2001-448a-10a7-1cf9-68ae-5255-d546-532e.ngrok.io"
 
 export default baseUrl

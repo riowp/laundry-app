@@ -5,7 +5,6 @@ import Detail from "../screen/Detail";
 import Invoice from "../screen/Invoice";
 import AddProduct from "../screen/AddProduct";
 
-import MyDrawer from "../drawer/MyDrawer";
 const Stack = createNativeStackNavigator();
 
 const MyStack = () => {
