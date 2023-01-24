@@ -19,6 +19,7 @@ const getProducts = async (req, res) => {
       attributes: {
         exclude: ["createdAt", "updatedAt"],
       },
+      order: [["id", "ASC"]],
     });
     res.status(200).json( products );
   } catch (err) {
